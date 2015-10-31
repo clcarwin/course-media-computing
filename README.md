@@ -1,4 +1,4 @@
-cv-algorithms
+course-media-computing
 =============
 
-A set of implementations of algorithms of computer vision.
+The course project for Media Computing at Tsinghua University.
